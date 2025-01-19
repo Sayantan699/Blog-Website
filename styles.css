@@ -798,4 +798,8 @@ header .fa-bars {
   .dash {
     font-size: 45px;
   }
+  #container {
+    width: 1000px;
+    padding: 0 20px 0 20px;
+  }
 }
